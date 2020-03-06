@@ -34,5 +34,6 @@ int main()
 
     printf("Min element: %d\n", min);
 
+
     return 0;
 }
